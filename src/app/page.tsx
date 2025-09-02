@@ -26,7 +26,7 @@ export default function HomePage() {
           <div className='step'>
             <FaUsers size={32} color="#2563eb" style={{ marginBottom: '12px' }} />
             <h3>2. Explore Talent</h3>
-            <p>Find indivisuals and teams with the skills you need.</p>
+            <p>Find individuals and teams with the skills you need.</p>
           </div>
           <div className='step'>
             <FaHandshake size={32} color="#2563eb" style={{ marginBottom: '12px' }} />
